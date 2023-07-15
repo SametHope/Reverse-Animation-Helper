@@ -1,4 +1,5 @@
 **Note: I only forked this repo for myself to use it as an submodule more easily (and to add .gitignore).**
+Original repository: https://github.com/Straafe/unity-editor-tools
 
 # unity-editor-tools
 Some simple quality of life tools for Unity.
